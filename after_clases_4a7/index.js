@@ -14,3 +14,6 @@ let resultados = precios.map((el) => el * 2);
 
 console.log(resultados);
 
+
+
+
